@@ -1,4 +1,4 @@
-# Firsts — Support & Help Center
+# Support & Help Center
 
 Welcome to the official support center for **Firsts: Baby Milestone Tracker**.
 
